@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545709391248",
+    "project_id": "intruder-eaa8f",
+    "storage_bucket": "intruder-eaa8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545709391248:android:68289e298e806405c98715",
+        "android_client_info": {
+          "package_name": "com.example.intruder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL86j-dRYpTpUZ53dLN4otxJvctHwYrXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
